@@ -1,0 +1,2 @@
+# python-file-organizer
+A Python script that automatically organizes files into folders by type
